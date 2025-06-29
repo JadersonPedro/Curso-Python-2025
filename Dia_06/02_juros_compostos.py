@@ -21,3 +21,4 @@ def juros_compostos(anos:int, aporte:int, taxa:float):
 #%%
 
 juros_compostos(anos=4, aporte=1000, taxa=0.1)
+
