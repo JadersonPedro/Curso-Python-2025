@@ -1,0 +1,65 @@
+[
+    {
+        "cep": "80010-150",
+        "logradouro": "Rua Monsenhor Celso",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Centro",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535"
+    },
+    {
+        "cep": "80050-510",
+        "logradouro": "Rua Governador Agamenon Magalhães",
+        "complemento": "até 498/499",
+        "unidade": "",
+        "bairro": "Cristo Rei",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535"
+    },
+    {
+        "cep": "13180-000",
+        "logradouro": "Avenida Emílio Bosco",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Morumbi (Nova Veneza)",
+        "localidade": "Sumaré",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3552403",
+        "gia": "6713",
+        "ddd": "19",
+        "siafi": "7149"
+    },
+    {
+        "cep": "13185-000",
+        "logradouro": "Rua Sebastião Isidro Rosa",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Sumarezinho",
+        "localidade": "Hortolândia",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3519071",
+        "gia": "7481",
+        "ddd": "19",
+        "siafi": "2951"
+    },
+    {
+        "erro": "true"
+    }
+]
