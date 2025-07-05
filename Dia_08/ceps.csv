@@ -1,0 +1,8 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi
+0;80010-150;Rua Monsenhor Celso;;;Centro;Curitiba;PR;Paraná;Sul;4106902;;41;7535
+1;80050-510;Rua Governador Agamenon Magalhães;até 498/499;;Cristo Rei;Curitiba;PR;Paraná;Sul;4106902;;41;7535
+2;13180-000;Avenida Emílio Bosco;;;Jardim Morumbi (Nova Veneza);Sumaré;SP;São Paulo;Sudeste;3552403;6713;19;7149
+3;13185-000;Rua Sebastião Isidro Rosa;;;Jardim Sumarezinho;Hortolândia;SP;São Paulo;Sudeste;3519071;7481;19;2951
+4;96205-210;Rua Buenos Aires;de 108/109 ao fim;;Cassino;Rio Grande;RS;Rio Grande do Sul;Sul;4315602;;53;8815
+5;96207-650;Rua Antônio Simão numa;(ABC I, II e III);;Cassino;Rio Grande;RS;Rio Grande do Sul;Sul;4315602;;53;8815
+6;96205-160;Rua São Borja;;;Cassino;Rio Grande;RS;Rio Grande do Sul;Sul;4315602;;53;8815

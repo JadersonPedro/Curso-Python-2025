@@ -30,7 +30,7 @@ dados
 #%%
 
 dataset = pd.DataFrame(dados)
-dataset
+dataset.to_csv("ceps.csv", sep=";") 
 
 #%%
 
